@@ -1,4 +1,4 @@
-* { 
+* {
   margin: 0; 
   padding: 0; 
   box-sizing: border-box; 
@@ -345,9 +345,9 @@ input {
 
 .footer { 
   background: #279a59; 
-  color: #fff; 
+  color: #fff;
   margin-top: 120px; 
-  padding: 50px 0; 
+  padding: 50px 0;  
 }
 .foot-in { 
   display: flex; 
